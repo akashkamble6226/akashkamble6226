@@ -1,10 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Akash Kamble</h1>
-<h3 align="center">A Computer Engineer who like to solve common problems using the super natural power called programming.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkamble6226&label=Profile%20views&color=0e75b6&style=flat" alt="akashkamble6226" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkamble6226" alt="akashkamble6226" /></a> </p>
+### Hi there 👋, my name is Akash
+#### A Computer Engineer who like to solve common problems using the super natural power called programming.
+I like to design the apps in adobe xd and implement them into the frameworks like Flutter and Django . I am also passionate about learning salesforce 
+![A Computer Engineer who like to solve common problems using the super natural power called programming.](https://cdn.dribbble.com/users/3946401/screenshots/11385072/media/70b59cb5fad626343379247a87e1c5b7.png?compress=1&resize=1200x900)
 
 - 🌱 I’m currently learning **Flutter**
 
