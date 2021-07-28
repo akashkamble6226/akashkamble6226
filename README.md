@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Akash Kamble</h1>
 <h3 align="center">A Computer Engineer who like to solve common problems using the super natural power called programming.</h3>
 
@@ -12,6 +13,8 @@
 - 📫 How to reach me **official.akashk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JvIT0p9Ir4j3bKbWiHX3hrPLt20DFblR/view?usp=sharing](https://drive.google.com/file/d/1JvIT0p9Ir4j3bKbWiHX3hrPLt20DFblR/view?usp=sharing)
+
+<img src="https://github-readme-stats.vercel.app/api?username=akashkamble6226&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
